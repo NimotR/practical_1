@@ -1,0 +1,23 @@
+p{
+    background-color:burlywood;
+    color:palevioletred; 
+    font-size:25px 
+}
+
+body{
+    background-color:purple;
+    }
+
+    .my_green_text{
+        color:magenta;
+         text-align: center;
+    }
+
+    .blueBackground{
+        background-color: darkcyan;
+    }
+
+    #greenBackground{
+        background-color: gold;
+    }
+    
